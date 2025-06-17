@@ -5,7 +5,7 @@ Analysis of Symantec Identity Portal business logic using Windows Powershell jso
 You may use MS Windows Powershell ISE to run and monitor.
 - These were developed on MS Win 2019 Powershell 5.1
 ![image](https://github.com/user-attachments/assets/fba892a7-1796-4b3d-80a2-fd9ce672eab8)
-- These scripts assume both Notepad++ and WinMerge are install in default locations on MS Win host.
+- These scripts assume both Notepad++ and WinMerge are install in their default locations on a MS Win host.
 - https://notepad-plus-plus.org/
 - https://winmerge.org/
 
