@@ -1,6 +1,6 @@
 #####################################################################################
-#
-# Name: Convert Identity Portal (Sigma) (FORMs ONLY) export to pretty json + layout + JS handler extractor
+# Name: Script #3: FORM / LAYOUT / JAVASCRIPT
+# Goal: Convert Identity Portal (Sigma) (FORMs ONLY) export to pretty json + layout + JS handler extractor
 #
 # - This script focuses on the complexity within an Identity Portal Form with embedded Javascript.
 # - Using the Identity Portal admin console, export only a single IP FORM, then run this powershell script to import it as a txt file.
