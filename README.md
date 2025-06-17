@@ -19,10 +19,10 @@ We found this useful for the plugins export during migrations.
 ![image](https://github.com/user-attachments/assets/ec7ca209-cc13-4e9e-ae86-23a88f90e9fd)
 
 **BEFORE:**  (one-liner-compressed json)
-![image](https://github.com/user-attachments/assets/7213dfd1-5516-4582-a248-ee29c37dd6ab)
+![image](https://github.com/user-attachments/assets/7d228f09-4455-4740-8e29-f94dd770d0f3)
 
 **AFTER:**  (pretty json - human readable/searchable) - Noticed the file is now over 5000 lines.
-![image](https://github.com/user-attachments/assets/e2a2efd6-f287-4a75-bfda-3c179e6a9ecf)
+![image](https://github.com/user-attachments/assets/606d06d4-87df-4609-9754-b08fa1f8be9e)
 
 
 # DELTAS - WINMERGE - FULL / FORMS / PLUGINS
