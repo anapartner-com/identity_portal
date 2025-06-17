@@ -1,12 +1,13 @@
 # identity_portal
 Analysis of Symantec Identity Portal business logic using Windows Powershell json filtering
 
-
+# How to use
 You may use MS Windows Powershell ISE to run and monitor.
 - These were developed on MS Win 2019 Powershell 5.1
 ![image](https://github.com/user-attachments/assets/e63de256-ec69-4459-a9d0-4d4b75f21768)
 
 
+# Pretty JSON
 Use the pretty json script to convert the one-liner-compressed json to human readable format for any export.
 
 ![image](https://github.com/user-attachments/assets/0276263d-3f9a-4a5d-977d-18aa037983b5)
@@ -18,6 +19,7 @@ AFTER:  (pretty json - human readable/searchable) - Noticed the file is now over
 ![image](https://github.com/user-attachments/assets/e2a2efd6-f287-4a75-bfda-3c179e6a9ecf)
 
 
+# PLUGINS
 
 We find this useful to review the plugins export.  To compare between environments.  
 As the plugins configurations will likely have different hostnames and credentials.
