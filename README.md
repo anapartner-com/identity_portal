@@ -7,9 +7,11 @@ You may use MS Windows Powershell ISE to run and monitor.
 ![image](https://github.com/user-attachments/assets/e63de256-ec69-4459-a9d0-4d4b75f21768)
 
 
-# Pretty JSON
+# PRETTY JSON
 Use the pretty json script to convert the one-liner-compressed json to human readable format for any export.
-
+This 1st script will allow you to convert either a full or subset export to pretty json.   
+This script allows the file to be re-imported if wished.   
+We found this useful for the plugins.
 ![image](https://github.com/user-attachments/assets/0276263d-3f9a-4a5d-977d-18aa037983b5)
 
 BEFORE:  (one-liner-compressed json)
@@ -19,13 +21,23 @@ AFTER:  (pretty json - human readable/searchable) - Noticed the file is now over
 ![image](https://github.com/user-attachments/assets/e2a2efd6-f287-4a75-bfda-3c179e6a9ecf)
 
 
-# PLUGINS
+# DELTAS - WINMERGE - FULL / FORMS / PLUGINS
 
-We find this useful to review the plugins export.  To compare between environments.  
+We find our 2nd script with WinMerge useful as a high-level review of any deltas to compare between environments.  
+This 2nd script will require two (2) full exports of the environment.
 As the plugins configurations will likely have different hostnames and credentials.
+These files are for search/research usage, they can not be re-imported.   
+Updates will be/should be made within the Identity Portal Admin Mgmt UI.
 
 ![image](https://github.com/user-attachments/assets/1cfdffc0-2943-439c-b386-a80488ea76c0)
 
+
+# FORMS / LAYOUT / JAVASCRIPT
+
 Finally, for the complex 'layout' property that may contains 1000's of lines of javascript within the Identity Portal Forms, we would recommend that single forms be exported to be reviewed.
+This 3rd script will use Notepad++ to host all the exported logic from a single Identity Portal Form in a sorted format.
+The individual notepad++ files can then be compared with WinMerge between environments or time-stamp deltas.
+These files are for search/research usage, they can not be re-imported.
+Updates will be/should be made within the Identity Portal Admin Mgmt UI.
 
 ![image](https://github.com/user-attachments/assets/37f18706-b315-4615-af1e-ad0bb1ec8e75)
