@@ -1,5 +1,5 @@
 #####################################################################################
-#
+# Script #1 : PRETTY JSON - export_identity_portal_txt_to_pretty_json_only.ps1
 # Goal: Review & reduce analysis effort of Symantec vApp Identity Portal (FULL or FORM) export txt files 
 # 
 #  PowerShell Script to open TXT or JSON file created by Identity Portal
