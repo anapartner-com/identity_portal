@@ -14,7 +14,8 @@ Use the pretty json script to convert the one-liner-compressed json to human rea
 BEFORE:  (one-liner-compressed json)
 ![image](https://github.com/user-attachments/assets/7213dfd1-5516-4582-a248-ee29c37dd6ab)
 
-AFTER:  (pretty json - human readable/searchable)
+AFTER:  (pretty json - human readable/searchable) - Noticed the file is now over 5000 lines.
+![image](https://github.com/user-attachments/assets/e2a2efd6-f287-4a75-bfda-3c179e6a9ecf)
 
 
 
