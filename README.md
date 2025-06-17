@@ -18,7 +18,7 @@ We found this useful for the plugins export during migrations.
 
 ![image](https://github.com/user-attachments/assets/ec7ca209-cc13-4e9e-ae86-23a88f90e9fd)
 
-**BEFORE:**  (one-liner-compressed json)
+**BEFORE:**  (one-liner-compressed json) - Try to search for your object with this file.
 ![image](https://github.com/user-attachments/assets/7d228f09-4455-4740-8e29-f94dd770d0f3)
 
 **AFTER:**  (pretty json - human readable/searchable) - Noticed the file is now over 5000 lines.
