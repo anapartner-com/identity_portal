@@ -29,11 +29,12 @@ As the plugins configurations will likely have different hostnames and credentia
 These files are for search/research usage, they can not be re-imported.   
 Updates will be/should be made within the Identity Portal Admin Mgmt UI.
 
-![image](https://github.com/user-attachments/assets/36c11759-5a9e-4069-ba4a-dd93998481a0)
+![image](https://github.com/user-attachments/assets/cb9722d9-9c7a-444b-a06d-17de14d1a20e)
 
-![image](https://github.com/user-attachments/assets/dba57885-0e97-4a18-a5af-3ed0e82db328)
+![image](https://github.com/user-attachments/assets/2eec6951-464e-4d25-b2a7-093206e6aa08)
 
-![image](https://github.com/user-attachments/assets/c46dfb1d-b686-4382-b094-4839752d35b0)
+![image](https://github.com/user-attachments/assets/2631c181-f3d8-44fc-ab73-8c0014f8e058)
+
 
 
 # FORMS / LAYOUT / JAVASCRIPT
