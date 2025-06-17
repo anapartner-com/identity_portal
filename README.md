@@ -15,10 +15,10 @@ We found this useful for the plugins export during migrations.
 
 ![image](https://github.com/user-attachments/assets/ec7ca209-cc13-4e9e-ae86-23a88f90e9fd)
 
-BEFORE:  (one-liner-compressed json)
+**BEFORE:**  (one-liner-compressed json)
 ![image](https://github.com/user-attachments/assets/7213dfd1-5516-4582-a248-ee29c37dd6ab)
 
-AFTER:  (pretty json - human readable/searchable) - Noticed the file is now over 5000 lines.
+**AFTER:**  (pretty json - human readable/searchable) - Noticed the file is now over 5000 lines.
 ![image](https://github.com/user-attachments/assets/e2a2efd6-f287-4a75-bfda-3c179e6a9ecf)
 
 
