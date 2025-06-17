@@ -27,6 +27,7 @@ We find our 2nd script with WinMerge useful as a high-level review of any deltas
 This 2nd script will require two (2) full exports of the environment.
 As the plugins configurations will likely have different hostnames and credentials.
 These files are for search/research usage, they can not be re-imported.   
+Use the information of any FORM deltas to then use the 3rd script for those selected FORMS.
 Updates will be/should be made within the Identity Portal Admin Mgmt UI.
 
 ![image](https://github.com/user-attachments/assets/cb9722d9-9c7a-444b-a06d-17de14d1a20e)
