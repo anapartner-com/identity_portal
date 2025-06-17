@@ -45,4 +45,6 @@ The individual notepad++ files can then be compared with WinMerge between enviro
 These files are for search/research usage, they can not be re-imported.
 Updates will be/should be made within the Identity Portal Admin Mgmt UI.
 
-![image](https://github.com/user-attachments/assets/37f18706-b315-4615-af1e-ad0bb1ec8e75)
+![image](https://github.com/user-attachments/assets/9ca2528e-2d6f-4672-b61f-4d177557c092)
+![image](https://github.com/user-attachments/assets/b1ec47a8-4d15-486e-af24-a3fb6a65b5db)
+
