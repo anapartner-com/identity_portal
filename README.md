@@ -13,6 +13,7 @@ This 1st script will allow you to convert either a full or subset export to pret
 This script allows the file to be re-imported if wished.   
 We found this useful for the plugins export during migrations.
 ![image](https://github.com/user-attachments/assets/0276263d-3f9a-4a5d-977d-18aa037983b5)
+![image](https://github.com/user-attachments/assets/ec7ca209-cc13-4e9e-ae86-23a88f90e9fd)
 
 BEFORE:  (one-liner-compressed json)
 ![image](https://github.com/user-attachments/assets/7213dfd1-5516-4582-a248-ee29c37dd6ab)
@@ -29,6 +30,7 @@ As the plugins configurations will likely have different hostnames and credentia
 These files are for search/research usage, they can not be re-imported.   
 Use the information of any FORM deltas to then use the 3rd script for those selected FORMS.
 Updates will be/should be made within the Identity Portal Admin Mgmt UI.
+![image](https://github.com/user-attachments/assets/f034fb6d-c28c-47d7-af1a-f1cb22154cf3)
 
 ![image](https://github.com/user-attachments/assets/cb9722d9-9c7a-444b-a06d-17de14d1a20e)
 
@@ -45,6 +47,7 @@ This 3rd script will use Notepad++ to host all the exported logic from a single 
 The individual notepad++ files can then be compared with WinMerge between environments or time-stamp deltas.
 These files are for search/research usage, they can not be re-imported.
 Updates will be/should be made within the Identity Portal Admin Mgmt UI.
+![image](https://github.com/user-attachments/assets/39230268-22b5-4b13-b128-c4bc8eb700bc)
 
 ![image](https://github.com/user-attachments/assets/9ca2528e-2d6f-4672-b61f-4d177557c092)
 ![image](https://github.com/user-attachments/assets/b1ec47a8-4d15-486e-af24-a3fb6a65b5db)
