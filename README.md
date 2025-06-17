@@ -4,7 +4,6 @@ Analysis of Symantec Identity Portal business logic using Windows Powershell jso
 # How to use
 You may use MS Windows Powershell ISE to run and monitor.
 - These were developed on MS Win 2019 Powershell 5.1
-![image](https://github.com/user-attachments/assets/e63de256-ec69-4459-a9d0-4d4b75f21768)
 
 
 # PRETTY JSON
@@ -13,6 +12,7 @@ This 1st script will allow you to convert either a full or subset export to pret
 This script allows the file to be re-imported if wished.   
 We found this useful for the plugins export during migrations.
 ![image](https://github.com/user-attachments/assets/0276263d-3f9a-4a5d-977d-18aa037983b5)
+
 ![image](https://github.com/user-attachments/assets/ec7ca209-cc13-4e9e-ae86-23a88f90e9fd)
 
 BEFORE:  (one-liner-compressed json)
