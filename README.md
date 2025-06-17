@@ -11,6 +11,13 @@ Use the pretty json script to convert the one-liner-compressed json to human rea
 
 ![image](https://github.com/user-attachments/assets/0276263d-3f9a-4a5d-977d-18aa037983b5)
 
+BEFORE:  (one-liner-compressed json)
+![image](https://github.com/user-attachments/assets/7213dfd1-5516-4582-a248-ee29c37dd6ab)
+
+AFTER:  (pretty json - human readable/searchable)
+
+
+
 We find this useful to review the plugins export.  To compare between environments.  
 As the plugins configurations will likely have different hostnames and credentials.
 
