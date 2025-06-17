@@ -11,7 +11,7 @@ You may use MS Windows Powershell ISE to run and monitor.
 Use the pretty json script to convert the one-liner-compressed json to human readable format for any export.
 This 1st script will allow you to convert either a full or subset export to pretty json.   
 This script allows the file to be re-imported if wished.   
-We found this useful for the plugins.
+We found this useful for the plugins export during migrations.
 ![image](https://github.com/user-attachments/assets/0276263d-3f9a-4a5d-977d-18aa037983b5)
 
 BEFORE:  (one-liner-compressed json)
@@ -29,7 +29,11 @@ As the plugins configurations will likely have different hostnames and credentia
 These files are for search/research usage, they can not be re-imported.   
 Updates will be/should be made within the Identity Portal Admin Mgmt UI.
 
-![image](https://github.com/user-attachments/assets/1cfdffc0-2943-439c-b386-a80488ea76c0)
+![image](https://github.com/user-attachments/assets/36c11759-5a9e-4069-ba4a-dd93998481a0)
+
+![image](https://github.com/user-attachments/assets/dba57885-0e97-4a18-a5af-3ed0e82db328)
+
+![image](https://github.com/user-attachments/assets/c46dfb1d-b686-4382-b094-4839752d35b0)
 
 
 # FORMS / LAYOUT / JAVASCRIPT
